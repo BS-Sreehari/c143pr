@@ -1,0 +1,12 @@
+body
+{
+text-align: center;
+}
+
+.heading {
+    width: 100%;
+}
+
+.heading button {
+    float: right;
+}
